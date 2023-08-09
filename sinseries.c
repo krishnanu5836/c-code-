@@ -28,5 +28,5 @@ float series(float x,float n)
         sign=-1*sign;
         sum=sum + sign*p/fact;
     }
-    return (sum);
+    return (sum)
 }
