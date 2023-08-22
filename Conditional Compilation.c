@@ -10,6 +10,9 @@ main()
     s=a-b;
     printf("%d",s);
     #endif(a<b)
+        #ifdef a
+    printf("hello");
+    #endif // a
     printf("ok");
 
 }
