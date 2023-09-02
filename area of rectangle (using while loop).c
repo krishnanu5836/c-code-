@@ -1,7 +1,7 @@
 main()
 {
     int l,b,count,a;
-    count=1;
+    count=0;
     while(count<=2){
     printf("enter length and breadth\n");
     scanf("%d %d",&l,&b);
